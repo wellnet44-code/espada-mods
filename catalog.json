@@ -60,6 +60,36 @@
             "image": "",
             "review": "https://www.youtube.com/watch?v=ZZwEMVCrqfw",
             "download": "https://drive.google.com/drive/folders/1hqnOp6ryevQYsE3zVifw95LezoJjl_zn"
-         }   
+        },
+        {
+            "id": "world redux",
+            "name": "world redux",
+            "category": "redux",
+            "type": "redux",
+            "author": "espada mods",
+            "version": "1.0",
+            "game": "GTA V",
+            "edition": "Majestic",
+            "size": 1.5,
+            "description": "",
+            "image": "",
+            "review": "https://www.youtube.com/watch?v=JosQXK2od-0",
+            "download": "https://drive.google.com/drive/folders/1FU9WBB5pn1cEmrM5pUEkIA-JrzBKUqLF"      
+        },
+        {
+            "id": "screamz v3 redux",
+            "name": "screamz v3 redux",
+            "category": "redux",
+            "type": "redux",
+            "author": "espada mods",
+            "version": "1.0",
+            "game": "GTA V",
+            "edition": "Majestic",
+            "size": 1.5,
+            "description": "",
+            "image": "",
+            "review": "https://www.youtube.com/watch?v=aWEXVp7E7bE",
+            "download": "https://drive.google.com/drive/folders/1k1rgipfCoric_2p3yrYvY1YvONYoqXVE?usp=sharing"
+         }
     ]
 }
