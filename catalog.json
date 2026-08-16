@@ -1,16 +1,61 @@
 {
-    "catalog_version": 1,
+    "version": 1,
     "mods": [
         {
-            "id": "test-redux",
-            "name": "Test Redux",
+            "id": "die-alone",
+            "name": "Die Alone",
+            "category": "redux",
+            "type": "redux",
+            "author": "espada mods",
             "version": "1.0",
-            "description": "Тестовый Redux для ESPADA MODS",
-            "download": "https://github.com/wellnet44-code/espada-mods/releases/download/v1.0/TestRedux.7z",
-            "image": "",
-            "size": 0,
             "game": "GTA V",
-            "edition": "Legacy"
+            "edition": "Majestic",
+            "size": 514,
+            "tags": [
+                "redux",
+                "visual"
+            ],
+            "description": "Пример записи. Замени данные своими.",
+            "image": "https://example.com/preview.jpg",
+            "screenshots": [
+                "https://example.com/screen1.jpg",
+                "https://example.com/screen2.jpg"
+            ],
+            "review": "https://www.youtube.com/watch?v=7gtny6CW3hM",
+            "download": "https://drive.google.com/file/d/16vi-EliPjA0e_VvszMY44WuduoL3_6Uj/view"
+        },
+        {
+            "id": "example-gunpack",
+            "name": "Example Gunpack",
+            "category": "gunpack",
+            "type": "gunpack",
+            "author": "ESPADA MODS",
+            "version": "2.0",
+            "game": "GTA V",
+            "edition": "Legacy",
+            "size": 120,
+            "tags": [
+                "gunpack",
+                "weapons"
+            ],
+            "description": "Пример ганпака.",
+            "image": "https://example.com/gunpack.jpg",
+            "download": "https://example.com/gunpack.7z"
+        },
+        {
+            "id": "example-minimap",
+            "name": "Example Minimap",
+            "category": "minimap",
+            "type": "minimap",
+            "author": "ESPADA MODS",
+            "version": "1.0",
+            "game": "GTA V",
+            "edition": "Legacy",
+            "tags": [
+                "minimap"
+            ],
+            "image": "https://example.com/minimap.jpg",
+            "download": "https://example.com/minimap.zip"
         }
     ]
 }
