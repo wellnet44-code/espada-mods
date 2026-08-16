@@ -51,7 +51,7 @@
             "name": "insomniac redux",
             "category": "redux",
             "type": "redux",
-            "author": "espada mods",
+            "author": "",
             "version": "1.0",
             "game": "GTA V",
             "edition": "Majestic",
@@ -66,7 +66,7 @@
             "name": "world redux",
             "category": "redux",
             "type": "redux",
-            "author": "espada mods",
+            "author": "",
             "version": "1.0",
             "game": "GTA V",
             "edition": "Majestic",
@@ -81,7 +81,7 @@
             "name": "screamz v3 redux",
             "category": "redux",
             "type": "redux",
-            "author": "espada mods",
+            "author": "",
             "version": "1.0",
             "game": "GTA V",
             "edition": "Majestic",
@@ -90,6 +90,21 @@
             "image": "",
             "review": "https://www.youtube.com/watch?v=aWEXVp7E7bE",
             "download": "https://drive.google.com/drive/folders/1k1rgipfCoric_2p3yrYvY1YvONYoqXVE?usp=sharing"
+        },
+        {
+            "id": "enfants riches déprimés redux",
+            "name": "enfants riches déprimés redux",
+            "category": "redux",
+            "type": "redux",
+            "author": "",
+            "version": "1.0",
+            "game": "GTA V",
+            "edition": "Majestic",
+            "size": 1.5,
+            "description": "",
+            "image": "",
+            "review": "https://youtu.be/abs843ax7E0",
+            "download": "https://drive.google.com/drive/u/0/folders/1vD-HxSAC9HalSAOIBO_wWorSxp1lT67a"
          }
     ]
 }
