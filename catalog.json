@@ -105,6 +105,51 @@
             "image": "",
             "review": "https://youtu.be/abs843ax7E0",
             "download": "https://drive.google.com/drive/u/0/folders/1vD-HxSAC9HalSAOIBO_wWorSxp1lT67a"
+        },
+        {
+            "id": "asteria redux",
+            "name": "asteria redux",
+            "category": "redux",
+            "type": "redux",
+            "author": "",
+            "version": "1.0",
+            "game": "GTA V",
+            "edition": "Majestic",
+            "size": 1.5,
+            "description": "",
+            "image": "",
+            "review": "https://youtu.be/mCBhLp4wrfA",
+            "download": "https://drive.google.com/drive/u/0/folders/1TPB9RdbMkMfhJrixjCT4dCQYSmlKwhaS"
+        },
+        {
+            "id": "vista redux",
+            "name": "vista redux",
+            "category": "redux",
+            "type": "redux",
+            "author": "",
+            "version": "1.0",
+            "game": "GTA V",
+            "edition": "Majestic",
+            "size": 1.5,
+            "description": "",
+            "image": "",
+            "review": "https://youtu.be/6GbyczhSS-A",
+            "download": "https://drive.google.com/file/d/1fJtN2bii9GFwbBhaRjHQiS_kUo0n7-VO/view?usp=sharing"
+        ,
+        {
+            "id": "deku v1",
+            "name": "deku v1",
+            "category": "redux",
+            "type": "redux",
+            "author": "",
+            "version": "1.0",
+            "game": "GTA V",
+            "edition": "Majestic",
+            "size": 1.5,
+            "description": "",
+            "image": "",
+            "review": "https://youtu.be/ey4QjLCMUrs?is=2NCADltObVYLnwG4",
+            "download": "https://drive.google.com/drive/folders/19l1708iaDYeYiUU23zLcKDjE2xWCWky2"
          }
     ]
 }
