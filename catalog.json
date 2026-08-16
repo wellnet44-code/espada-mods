@@ -1,0 +1,16 @@
+{
+    "catalog_version": 1,
+    "mods": [
+        {
+            "id": "test-redux",
+            "name": "Test Redux",
+            "version": "1.0",
+            "description": "Тестовый Redux для ESPADA MODS",
+            "download": "",
+            "image": "",
+            "size": 0,
+            "game": "GTA V",
+            "edition": "Legacy"
+        }
+    ]
+}
