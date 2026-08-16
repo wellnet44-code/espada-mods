@@ -45,6 +45,21 @@
             "image": "https://i.ibb.co.com/qFyD25YZ/image.png",
             "review": "",
             "download": "ttps://drive.google.com/file/d/1Y2wc7Jfj5svK8h06fj7oPd78AWhNbeTz/view"
-        }   
+        },
+        {
+            "id": "insomniac redux",
+            "name": "insomniac redux",
+            "category": "redux",
+            "type": "redux",
+            "author": "espada mods",
+            "version": "1.0",
+            "game": "GTA V",
+            "edition": "Majestic",
+            "size": 27,
+            "description": "",
+            "image": "",
+            "review": "https://www.youtube.com/watch?v=ZZwEMVCrqfw",
+            "download": "https://drive.google.com/drive/folders/1hqnOp6ryevQYsE3zVifw95LezoJjl_zn"
+         }   
     ]
 }
