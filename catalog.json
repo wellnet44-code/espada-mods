@@ -3,7 +3,7 @@
     "mods": [
         {
             "id": "die-alone",
-            "name": "Die Alone",
+            "name": "die alone",
             "category": "redux",
             "type": "redux",
             "author": "espada mods",
@@ -18,7 +18,7 @@
         },
         {
             "id": "usa",
-            "name": "BLACK USA GUNPACK",
+            "name": "black usa gunpack",
             "category": "gunpack",
             "type": "gunpack",
             "author": "espada mods",
@@ -48,7 +48,7 @@
         },
         {
             "id": "krutoi",
-            "name": "EYES GUNPACK",
+            "name": "eyes gunpack",
             "category": "gunpack",
             "type": "gunpack",
             "author": "espada mods",
